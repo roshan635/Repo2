@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 98D4-4698
-
- Directory of C:\Users\user\Desktop\GIT\My Folder
-
-05-05-2020  11:32    <DIR>          .
-05-05-2020  11:32    <DIR>          ..
-05-05-2020  11:32                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  428,720,103,424 bytes free
+change1
